@@ -16,3 +16,7 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 - `npm run dev`
 <br> ou <br>
 - `yarn dev`
+
+## Deploy da aplicacao
+
+https://calculadoraimcts.netlify.app/
